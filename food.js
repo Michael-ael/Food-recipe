@@ -76,7 +76,7 @@ function mealRecipeModal(meal){
     </div>
 
     <div class="recipe-link">
-        <a href="${meal.strYoutube}" target="_blank"> Watch Videos</a>
+        <a href="${meal.strYoutube}" target="_blank"> Watch Videos </a>
     </div>
     `;
     mealDetailsContent.innerHTML = html;
